@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.8 (11V-24-25-)" />
+  </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="eb95edb6-a232-4425-af34-b26932a4e0d8" />
   </component>
